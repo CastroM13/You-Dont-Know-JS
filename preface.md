@@ -1,5 +1,5 @@
-# You Don't Know JS
-# Preface
+# Você não sabe JavaScript
+# Prefácio
 
 Tenho certeza que você notou, mas "JS" no título da série de livros não é uma abreviação de palavras usadas para amaldiçoar o JavaScript, embora amaldiçoar as peculiaridades da linguagem é algo com o qual provavelmente todos podemos nos identificar!
 
@@ -17,7 +17,7 @@ Conceitos sofisticados que estão profundamente enraizados na linguagem tendem a
 
 Aí reside o paradoxo do JavaScript, o calcanhar de Aquiles da linguagem, o desafio que estamos abordando atualmente. Como o JavaScript *pode* ser usado sem entendimento, o entendimento da linguagem muitas vezes nunca é alcançado.
 
-## Mission
+## Missão
 
 Se em cada ponto que você encontrar uma surpresa ou frustração em JavaScript, sua resposta for adicioná-lo à lista negra, como alguns estão acostumados a fazer, você logo será relegado a uma casca oca da riqueza do JavaScript.
 
@@ -33,7 +33,7 @@ Cada um desses livros aborda partes específicas da linguagem que são mais comu
 
 O JavaScript que você conhece *agora* é provavelmente *partes* transmitidas para você por outras pessoas que foram gravadas pela compreensão incompleta. *Esse* JavaScript é apenas uma sombra da verdadeira linguagem. Você não *realmente* conhece JavaScript, *ainda*, mas se você entrar nessa série, você *irá*. Leia meus amigos. JavaScript espera por você.
 
-## Summary
+## Sumário
 
 JavaScript é incrível. É fácil aprender parcialmente e muito mais difícil de aprender completamente (ou até *o suficiente*). Quando os desenvolvedores encontram confusão, geralmente culpam a linguagem em vez de sua falta de compreensão. Esses livros visam consertar isso, inspirando uma forte apreciação pela linguagem que você pode agora, e deve, *conhecer profundamente*.
 
