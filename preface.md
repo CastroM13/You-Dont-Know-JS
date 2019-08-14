@@ -1,8 +1,6 @@
 # Você não sabe JavaScript
 # Prefácio
 
-Tenho certeza que você notou, mas "JS" no título da série de livros não é uma abreviação de palavras usadas para amaldiçoar o JavaScript, embora amaldiçoar as peculiaridades da linguagem é algo com o qual provavelmente todos podemos nos identificar!
-
 Desde os primeiros dias da Web, o JavaScript tem sido uma tecnologia fundamental que impulsiona a experiência interativa em torno do conteúdo que consumimos. Enquanto as trilhas do mouse piscando e os prompts pop-up irritantes podem ser onde o JavaScript começou, quase duas décadas depois, a tecnologia e a capacidade do JavaScript cresceram em muitas ordens de magnitude, e poucos duvidam de sua importância no coração da plataforma de software mais amplamente disponível no mundo: a internet.
 
 Mas, como língua, tem sido perpetuamente alvo de muitas críticas, em parte devido à sua herança, mas ainda mais à sua filosofia de design. Até mesmo o nome evoca, como Brendan Eich disse certa vez, o status de irmão idiota ao lado de seu irmão mais velho e mais maduro, "Java". Mas o nome é apenas um acidente de política e marketing. As duas linguagens são muito diferentes em muitos aspectos importantes. "JavaScript" está tão relacionado a "Java" quanto "Banana" está para "Ana".
